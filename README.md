@@ -1,4 +1,4 @@
-<h1>Adições</h1:>
+<h1>Adições</h1>
 <p>Foram adicionados recursos de segurança utilizando as tecnologias Spring Boot Security e JWT Token ao projeto de base.</p>
 <p>Para gerenciamento dos acessos foi criado um perfil "ADMIN". Ao executar o sistema ele automaticamente cria um usuário com esse perfil de acesso e com os dados passado via CLI sendo --username="username" e --password="password" as credenciais cadastradas para acesso.</p>
 
