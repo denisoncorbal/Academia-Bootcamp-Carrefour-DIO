@@ -18,3 +18,9 @@ logging:
     org:
       hibernate:
         type: trace
+
+security:
+  config:
+    prefix: "Bearer"
+    key: "605470c5-2535-4d1e-a55e-876227c35208"
+    expiration: 3600000
