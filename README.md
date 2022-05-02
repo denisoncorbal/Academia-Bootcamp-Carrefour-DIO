@@ -1,3 +1,7 @@
+<h1>Adições</h1:>
+<p>Foram adicionados recursos de segurança utilizando as tecnologias Spring Boot Security e JWT Token ao projeto de base.</p>
+<p>Para gerenciamento dos acessos foi criado um perfil "ADMIN". Ao executar o sistema ele automaticamente cria um usuário com esse perfil de acesso e com os dados passado via CLI sendo --username="username" e --password="password" as credenciais cadastradas para acesso.</p>
+
 <h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
 <p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
